@@ -11,7 +11,7 @@
 
 ## Technical Discussions and Q&A
 * [Community Forum](https://aka.ms/DataFactoryCommunity)
-* [Reddit]link coming soon
+* [Reddit](https://www.reddit.com/r/MicrosoftFabric/)
 * [Known Issues](https://aka.ms/DataFactoryIssues)
 
 ## QuickStart
